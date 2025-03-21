@@ -1,0 +1,103 @@
+#login_password{
+    border-radius: 20px;
+    background-color: rgb(240, 240, 240);
+    border: 0ch;
+}
+
+#login_email{
+    border-radius: 20px;
+    background-color: rgb(240, 240, 240);
+    border: 0ch;
+}
+
+#login{
+    margin: auto;
+    display: flex; 
+    border: 0ch;   
+    border-radius: 20px;
+    background-color:#ffa458;
+    color:#ba3b0a;
+    transition: 900ms;
+}
+
+#login:hover{
+    background-color:#ba3b0a;
+    color:#ffc300;
+}
+
+/* #login:hover{
+    background-color: #ba3b0a;
+    color: #ffa458; */
+
+
+#password{
+    border-radius: 20px;
+    background-color: rgb(240, 240, 240);
+    border: 0ch;
+}
+
+#email{
+    border-radius: 20px;
+    background-color: rgb(240, 240, 240);
+    border: 0ch;
+}
+
+#register{
+    margin: auto;
+    display: flex;  
+    border: 0ch;  
+    border-radius: 20px;
+    background-color:#ffa458;
+    color:#ba3b0a;
+    transition: 900ms;
+}
+
+#register:hover{
+    background-color:#ba3b0a;
+    color:#ffc300;
+}
+
+.col-sm-4{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+#make{
+    position: relative;
+    left: 45%;
+}
+
+/* ... (your existing styles) ... */
+
+.blog-section {
+    padding: 50px 0;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.blog-section h2,
+.blog-section p {
+    color: #fff;
+}
+
+.blog-section .btn {
+    color: #fff;
+}
+
+/* ... (your existing styles) ... */
+
+  .btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #aa390f;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
